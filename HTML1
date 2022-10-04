@@ -1,0 +1,35 @@
+<html>
+	<head>
+		<title>2. Öğretim Ders </title>
+		<meta charset="utf-8 />
+		<meta name "keywords" content="dpü kütahya dumlupınar" />
+		<meta name="description" content="İlk HMTL sayfam">
+		</head>
+		<body>
+			Merhaba dünya. <br/>
+			Kış geliyor...
+			<p>Kütahya Dumlupınar Üniversitesi</p>
+			<p>Kütahya Teknik Bilimler MYO</p>
+			<hr/>
+			<!--Bu kısımlara not yazılabilir--!>
+			<h1>Kütahya Dumlupınar Üniversitesi<h1>
+			<h2>Kütahya Dumlupınar Üniversitesi<h2>
+			<h3>Kütahya Dumlupınar Üniversitesi<h3>
+			<h4>Kütahya Dumlupınar Üniversitesi<h4>
+			<h5>Kütahya Dumlupınar Üniversitesi<h5>
+			<h6>Kütahya Dumlupınar Üniversitesi<h6>
+			<!--
+				Sıralı liste: Ordered list
+				Sırasız liste: Unordered list
+				**List Item**
+			--!>
+			<ol>
+				<li>Kırıkkalespor</li>
+				<li>Balıkesirspor</li>
+				<li>Galatasaray</li>
+				<li>Fenerbahçe</li>
+				<li>Beşiktaş</li>
+				<li>Tavşanlı Linyitspor</li>
+			</ul>
+		</body>
+	</html> 
