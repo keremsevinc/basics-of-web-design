@@ -1,0 +1,107 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>4.Hafta</title>
+
+    </head>
+    <body>
+            <h1>KTBMYO</h1>
+            <p>Kütahya teknik bilimler meslek yüksekokulumuz Evliya Çelebi Yerleşkesindedir</p>
+            <p>
+            
+            <a href="bolumlerimiz.html">tıklayınız.</a>
+            
+            </p>
+            <h5>Faydalı Bağlantılar</h5>
+            <ul>
+                <li>
+                    <a
+                        href="https://www.dpu.edu.tr"
+                        target="_blank"
+                        
+                    ></a>DPÜ</a>
+                </li>
+                <li>
+                    <a href="mailto:murat.sari@dpu.edu.tr">
+                        iletişim için tıklayınız
+                    </a>
+                </li>
+
+            </ul>
+            
+
+            <h3>Öğrenci Listesi </h3> 
+
+            <table border="1" align="center" width="600">
+                <tr>
+                    <th width="20%"> Öğrenci No</th>
+                    <th width="40%"> Ad</th>
+                    <th width="40%">Soyad</th>
+                </tr>
+                <tr>
+                    <td>202251502011</td>
+                    <td>Yiğit</td>
+                    <td>Kocaçoban</td>
+                </tr>
+                <tr>
+                    <td>202251502046</td>
+                    <td>Kerem</td>
+                    <td>Sevinç</td>
+                </tr>    
+                <tr>
+                    <td>202251502016</td>
+                    <td>Cemil</td>
+                    <td>Çakar</td>
+                </tr>
+                <tr>
+                    <td>202251502045</td>
+                    <td>Ahmet</td>
+                    <td>Mahmut</td>
+                </tr>
+                <tr>
+                    <td>202251502031</td>
+                    <td>Mehmet</td>
+                    <td>Sevinç</td>
+                </tr>
+                <tr>
+                    <td>2022515032</td>
+                    <td>İrem</td>
+                    <td>Veske</td>
+                </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </table>
+
+
+
+
+
+
+
+
+    </body>
+
+
+
+
+
+
+
+
+
+</html>
