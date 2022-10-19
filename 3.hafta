@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>3. Hafta</title>
+
+    </head>
+    <body>
+    <h1>Ankara</h1>
+    <img
+        src="resim.jpg"        
+        alt="Ankara"
+        width="750"
+        height="400"
+        />
+
+
+        
+    <img
+    src="resim/resim2.jpg"        
+    alt="Atatürk"
+    width="300"
+    height="300"
+    />
+    
+    <img
+        src="resim/Yeni klasör/resim3.jpg"        
+        alt="Atatürk"
+        width="300"
+        height="300"
+        />
+        
+    <img
+    src="resim.jpg"        
+    alt="Ankara"
+    width="850"
+    height="500"
+    />
+            
+       
+    </body>
+</html>
