@@ -1,1 +1,75 @@
 
+<html>
+    <head>
+       
+        <title>özgeçmiş</title>
+        <meta charset="utf-8"/>
+
+    </head>
+    <body>
+        <h2 style="background-color:rgb(241, 13, 59);"> Kimim Ben ? </h2>
+        <hr>
+        <p>Adım ve soyadım Kerem Sevinç 15 Haziran 2002 tarihinde Kırıkkale'de dünyaya geldim ilk,ortaokul ve lisemi Kırıkkale'de tamamladıktan sonra Kütahya'ya geldim.</p>
+        <hr>
+           
+        </table>
+        <h1 style="background-color:black;" > ..</h1>
+        
+          <h4>Ziyaret ettiğim şehirler ise şunlar;</h4>
+            <ul>
+                <li>Ankara</li>
+                <li>İstanbul</li>
+                <li>Malatya</li>
+                <li>Antalya</li>
+            </ul>
+            <h1 style="background-color:rgb(8, 8, 8);" > ..</h1>
+         <h4>Hobilerim ise şunlar;</h4>    
+             <ol>
+                <li>Bisiklet sürmek</li>
+                <li>Dizi izlemek</li>
+                <li>Kitap okumak</li>
+                <li>Fotoğraf çekmek</li>   
+            </ol>
+            <h1 style="background-color:rgb(8, 8, 8);" > ..</h1>
+            <h4>Çektiğim fotoğraflardan bazıları ise şunlar;</h4>
+
+        <img src="resim/manzara/foto.jpg" alt="istanbul" width="200" height="200"/>
+        <img src="resim/manzara/foto2.jpg" alt="istanbul" width="200" height="200"/>
+        <img src="resim/manzara/foto3.jpg" alt="istanbul" width="201" height="202"/>
+
+
+        <p>Bana aşağıdaki iletişim adreslerinden ulaşabilirsiniz.</p>
+        <table border="1" align="" width="325 "
+            <tr>
+                <th width="50" >İnstagram:</th>
+                <td>
+                    <a href="https://instagram.com/krm.svnc/" 
+                       target="_blank">
+                       krm.svnc
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <th width="50"> E-mail:</th>
+                <th
+                    width="50">
+                    <a href="mailto:kerem.sevinc@ogr.dpu.edu.tr">
+                        kerem.sevinc@ogr.dpu.edu.tr
+                    </a>
+                </th>
+            </tr>
+            <tr>
+                <th width="50"> Telefon:</th>
+                <th width="50">05446051579</th>
+            </tr>
+
+
+
+    </body>
+
+
+
+
+
+</html>
+    
