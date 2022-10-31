@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>başvuru</title>
+</head>
+<body>
+    <style> body{
+        background-color: rgb(11, 130, 190)};
+        </style>
+    <h1 align="center">Başvuru Formu</h1> 
+    <form action="" method="get" >
+        İsim<br>
+        <input type="text" name="isim" />
+        <br/>
+        <form action="" method="get" align="center">
+        Soyisim<br>
+        <input type="text" name="soyisim" />
+        <form action="" method="get" align="center"><br>
+         Doğum Tarihi <br/>   
+         <input type="date" name="doğun tarihi" />
+         <br/>
+         <br>
+        T.C kimlik numarası<br>
+        <input type="password"  name="tc kimlik" />
+        <br>
+        <br>
+        Cinsiyet:<br>
+        <input type="radio" name="cinsiyet" value="e" /> Erkek <br>
+        <input type="radio" name="cinsiyet" value="k" /> Kadın <br>
+        <br>
+        Bildiğiniz diller: <br>
+        <input type="checkbox"  name="dil" value="ingilizce"/> İngilizce 
+        <input type="checkbox"  name="dil" value="fransızca"/> Fransızca <br>
+        <input type="checkbox"  name="dil" value="almanca"/> Almanca 
+        <input type="checkbox"  name="dil" value="italyanca"/>İtalyanca <br>
+        <input type="checkbox"  name="dil" value="çince"/> Çince <br>
+        <input type="checkbox"  name="dil" value="ispanyolca"/> İspanyolca
+        <br>
+        <br>
+        Bulunduğunuz şehir: <br>
+        <select name="sehir">
+            <option value="71">Kırıkkale</option>
+            <option value="43">Kütahya</option>
+            <option value="26">Eskişehir</option>
+            <option value="06">Ankara</option>
+            <option value="73">Şırnak</option>
+            <option value="15">Burdur</option>
+            <option value="46">Adıyaman</option>
+            <option value="46">Edirne</option>
+            <option value="46">Tekirdağ</option>
+            <option value="46">İzmir</option>
+            <option value="46">Çankırı</option>
+            <option value="46">Çorum</option>
+            <option value="46">Denizli</option>
+            <option value="46">Bursa</option>
+        </select>
+        <br>
+        <br>
+         Sizi neden işe almalıyız?
+        <br>
+        <textarea name="iş" cols="50" rows="7"></textarea>
+        <br>
+        Bildiğiniz yazılım dilleri: <br>
+        <br>
+        <input type="checkbox" name="dil" value="c++"/> C++ <br>
+        <input type="checkbox" name="dil" value="c#"/> C# <br>
+        <input type="checkbox" name="dil" value="python"/> python<br>
+        <input type="checkbox" name="dil" value="java"/> Java <br>
+        <input type="checkbox" name="dil" value="C"/> C <br>
+        <input type="checkbox" name="dil" value="SQL"/> SQL <br>
+        <br>
+        Mail:
+        <br>
+        <input type="email"/>
+        <br>
+        Telefon:
+        <br>
+        
+        <input type="tel" name="telefon"/>
+
+
+        
+
+
+
+
+
+        </form>
+
+    </form>
+    
+</body>
+</html>
