@@ -1,0 +1,882 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="atletizm">
+    <meta name="description" content="Bu sayfada atletizm ile ilgili bilgiler bulunur.">
+    <meta name="author" content="Kerem Sevinç">
+    <title>Atletizm</title>
+    <link href="style.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css">
+</head>
+<body>
+        <!-- header başı -->
+    <div id="icerik">
+        <div id="header-icerigi">
+            <div id="header">
+                <div id="logo">
+                    <h1><a href="#">Atletizm</a></h1>
+                </div>
+            </div>
+        </div>
+        <!-- header sonu -->
+        <!-- menü başı -->
+        <div id="menu-icerik-1">
+            <ul id="menu">
+                <li class="mevcut_sayfa"><a href="#"><span>Anasayfa</span></a></li>
+                <li><a href="galeri.html"><span>Galeri</span></a></li>
+                <li><a href="kurallar.html"><span>Kurallar</span></a></li>
+                <li><a href="tarihce.html"><span>Tarihçe</span></a></li>
+                <li><a href="iletisim.html"><span>İletişim</span></a></li>
+            </ul>
+        </div>
+        <!-- menü sonu -->
+        <!-- content başlangıcı -->
+        <div id="foto"><img src="../image/atletizm.png" width="1460" height="400"></div>
+        <div id="sayfa">
+            <div id="content">
+                <div class="contentbg">
+                    <div class="gonderi">
+                        <h2 class="baslik"><a href="#">Atletizm Hakkında</a></h2>
+                        <div class="girdi">
+                            <p>Atletizm, insanın tüm güç ve yeteneğinin neredeyse tümüyle kullanılmasını gerektirir. Atletler birbiriyle yarışırken, aynı zamanda kendi güç ve yeteneklerinin sınırlarını tanır, bunları geliştirmeye çalışırlar. Pist ve alan atletizmi üç ana dala ayrılır: Koşu, yürüyüş ve alan (atlama ve atma) yarışları.</p>
+                        </div>
+                    </div>
+                    <div class="gonderi">
+                        <h2 class="baslik"><a href="#">Nasıl Atlet Olunur?</a></h2>
+                        <div class="girdi">
+                            <p>Profesyonel bir koşucu olmak için yapmanız gereken bazı adımlar vardır. Bu adımları attığınızda profesyonel atletizm kariyeriniz için sağlam bir giriş yapmış olursunuz. İşte profesyonel koşucu olmak için gerekli adımlar.
+
+                                Adım 1 : Atlet olmak istiyorsanız ilk koşul sağlıklı olmanızdır. Sağlıklı bir vücuda sahip olmak en önemli koşullardan biridir. Bu ön koşulların yanında atlet olmak için nefes kapasiteniz ya da vital kapasite denen olguyu ölçtürmeniz gerekmektedir. Bunun ardında kalbinizde ritim bozukluğu ya da başka bir sorunun olup olmadığı kontrol edilmelidir. Bu gibi sağlık durumları göz önünde bulun durulduktan sonra atlet olmak için uygun olup olmadığınıza karar vermelisiniz. Bununla birlikte alkol, sigara gibi hiç bir zararlı alışkanlığınız olmamalıdır.
+                                
+                                Adım 2 : Spor akademisine gidin. Atlet olmak istiyorsanız spor akademisinden mezun olmanız gerekmez ancak spor akademisine giderseniz işiniz ile spor arasında doğrudan organik bağ kurarsınız. Eğer farklı bir meslek ile uğraşıyorsanız atlet olmak için gerekli egzersiz ve çalışmaları tam şekliyle uygulayamaya bilirsiniz. Bu nedenle atlet olmak istiyorsanız spor akademisine gitmenizi öneriyoruz.
+                                
+                                Adım 3 : Bir antrenör ya da koç ile çalışın. Profesyonel seviyeye ulaşmak için uzam olmak istediğiniz atletizm dalı üzerinde uzman bir antrenör ya da koç ile çalışmanız son derece yararlı olacaktır.
+                                
+                                Adım 4 : Sabırlı olun. Profesyonel olmak istediğiniz atletizm branşında uzmanlaşmanız aylar hatta yıllar alabilir. Bu nedenle atlet olmak istiyorsanız son derece sabırlı olmanız gerekmektedir. İlk olarak bölgesel turnuvalara katılmalı ve buradan sonra daha geniş kapsamlı turnuvalara katılmalısınız. Bu turnuvalarda başarı elde ettikçe motivasyonunuz artacak ve profesyonel atlet olma yolunda basamakları hızla çıkacaksınız.
+                                
+                                Adım 5 : Bir spor kulübüne gidin. Profesyonelliğe adım attıktan sonra her hangi bir profesyonel atletizm kulübüne ya da grubuna üye olursanız hem daha iyi teknik beceri geliştirebilir hem de arkanızda bulunan destek ile tüm motivasyonunuzu önünüzdeki turnuvalara verebilirsiniz.</p>
+                        </div>
+                    </div>
+                    <div class="gonderi">
+                        <h2 class="baslik"><a href="#">Neden Koşmalıyız?</a></h2>
+                        <div class="girdi">
+                            <ul>
+                                <li>Koşmak sizi fiziksel olarak daha sağlıklı ve güzel yapacaktır. Bu da kendinizi daha güçlü hissetmenize ve karşınıza çıkacak zorluklarla daha kolay başa çıkabilmenize yardımcı olacaktır. Daha iyi bir fiziğe sahip olmanız sadece fiziksel değil mental zorluklara karşı da sizi daha kararlı kılacaktır. Koşu size güç verecek bu sayede de daha mutlu yapacaktır.</li>
+                                <li>Koşmak ve yarışmak hedefler koymanıza yardımcı olacaktır. İnsanlar belli bir hedef için uğraştıklarında daha mutludurlar, bu hedefi gerçekleştirmeleri ikinci plandadır. Bir hedef belirlemek ve bu hedefi gerçekleştirmek için planlı çalışmak insanlarda mutluluğu tetiklemektedir. Hedefe ulaşmak, tabi ki harikadır fakat bu hedefe ulaşmak için gerçekleştirdiğiniz yolculuk mutluluğun asıl kaynağıdır.</li>
+                                <li>Koşu oldukça kişisel bir spor olmasına rağmen koşu grupları son derece sosyal ortamlar sağlar. Koşucular birbirlerine çok destek olur ve son derece sosyaldirler. Bir çok koşucu böyle sosyal gruplar içinde hem spor yapar hem de sosyal olarak son derece mutlu bir ortamda bulunurlar. İnsanlar, özellikle de kadınlar, bu tip sosyal ortamlarda çok daha güçlü sosyal bağlar hissederler. Tabi bu koşucuların illa da büyük gruplar halinde bulunması anlamına gelmiyor, kişinin kendisini bağlı hissedebileceği bir kaç koşu arkadaşı olması bile yeterli.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- content sonu -->
+            <!-- side bar başlagıç -->
+            <div id="sidebar-bg">
+                <div id="sidebar">
+                    <ul>
+                        <li>
+                            <h2>Yüzme Haberleri</h2>
+                            <p><a href="#">Atletizm Hakkında</a></p>
+                            <p><a href="#">Dünyanın En İyi Atleti</a></p>
+                            <p><a href="#">Balıklar koşar mı?</a></p>
+                        </li>
+                        <li>
+                            <h2>En Iyi Atletler</h2>
+                            <ul>
+                                <li>1- Kerem Sevinç</li>
+                                <li>2- Usain Bolt</li>
+                                <li>3- Karsten Warholm</li>
+                                <li>4- Ramil Guliyev</li>
+                                <li>5- Jürgen Schult</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- side bar sonu -->
+            <div style="clear: both;">&nbsp;</div>
+        </div>
+        <!-- sayfanın tamamının sonu -->
+        <!-- footer başlangıç -->
+    </div>
+    <div id="footer">
+        <p>2022. DPÜ Teknik Bilimler MYO. Kerem Sevinç tarafından yapılmıştır.</p>
+    </div>
+    <!-- footer sonu -->
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="atletizm">
+    <meta name="description" content="Bu sayfada atletizm ile ilgili bilgiler bulunur.">
+    <meta name="author" content="Kerem Sevinç">
+    <title>Atletizm</title>
+    <link href="style.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css">
+</head>
+<body>
+        <!-- header başı -->
+    <div id="icerik">
+        <div id="header-icerigi">
+            <div id="header">
+                <div id="logo">
+                    <h1><a href="#">Atletizm</a></h1>
+                </div>
+            </div>
+        </div>
+        <!-- header sonu -->
+        <!-- menü başı -->
+        <div id="menu-icerik-1">
+            <ul id="menu">
+                <li><a href="index.html"><span>Anasayfa</span></a></li>
+                <li><a href="galeri.html"><span>Galeri</span></a></li>
+                <li class="mevcut_sayfa"><a href="#"><span>Kurallar</span></a></li>
+                <li><a href="tarihce.html"><span>Tarihçe</span></a></li>
+                <li><a href="iletisim.html"><span>İletişim</span></a></li>
+            </ul>
+        </div>
+        <!-- menü sonu -->
+        <!-- content başlangıcı -->
+        <div id="sayfa">
+            <div id="content">
+                <div class="contentbg2">
+                    <div class="gonderi">
+                        <h2 class="baslik"><a href="#">Koşular</a></h2>
+                        <div class="girdi">
+                            <p>Atletizmin bir dalı olan koşular, önceden belirlenmiş çeşitli mesafelerde koşularak rakiplere ve zamana karşı yapılan mücadeleyi ifade eder. Tüm zamanların en eski ve en çok ilgi gören spor dallarından biridir. Pist yarışları ve yol yarışları olarak iki ana dala ayrılır. Pist yarışmalarında belirli bir mesafede en hızlı koşmak esastır. Tüm koşular "ronometre" denilen zaman ölçüsü ile ölçülür.  
+
+                                Yarışmalar özel atletizm stadyumlarında yapılır. Stadyumun çevresinde kulvarlara ayrılmış elips biçiminde koşu pisti vardır. Ortadaki çim alan ise atma ve atlama yarışmalarına ayrılmıştır. Bütün yarışmaların oyun alanları stadyum üzerinde aynı anda bulunur ve aynı anda birkaç yarışma birden yapılır. Bununla birlikte yarışmalar açık havada ya da salonlarda düzenlenebilir. Salon müsabakalarında atma yarışmaları yapılmaz ya da değişik uygulama ve yöntemlerle yapılır. Fakat resmi dünya rekorlarının mutlaka açık havada kırılması, 100 m. düz ve 110 m. engelli yarışlarında ise arkadan esen rüzgarın hızının saniyede 2 m.'i geçmemesi gerekir.  </p>
+                        </div>
+                    </div>
+                    <div class="gonderi">
+                        <h2 class="baslik"><a href="#">Pist yarışları 6 bölümden oluşur:  </a></h2>
+                        <div class="girdi">
+                            <ol>
+                                <li>Sürat</li>
+                                <li>Orta Mesafe</li>
+                                <li>Uzun Mesafe</li>
+                                <li>Bayrak Koşuları</li>
+                                <li>Engel Koşuları</li>
+                                <li>Hendek</li>
+                            </ol>
+                        </div>
+                    </div>
+                    <div class="gonderi">
+                        <h2 class="baslik"><a href="#">Pist Yarısları</a></h2>
+                        <div class="girdi">
+                            <p>Pist yarışları, genellikle 400 m.'lik elips biçimli pistlerde yapılır. Yarışmalar 6 bölümden oluşur: 
+ 
+                                a) Sürat Koşuları: Pist ve alan sporlarında; kısa mesafe atletlerinin bütün güçleriyle koşmasına dayanan, en süratli olanı belirleyen yarışlardır. Bir diğer ismi de kısa mesafe koşularıdır.  
+                                
+                                Bu tür yarışmalarda koşucunun sürati ve dayanıklılığı yanında, temposunu değerlendirmesi de büyük önem taşır.  
+                                
+                                Virajlı yarışların başlangıç çizgileri, tüm atletlerin aynı uzunluğu koşmalarını sağlamak için kademeli ve eğri olarak çizilmiştir. İç kulvarlardaki yarışmacılar yarışa daha gerilerden başlarlar.  
+                                
+                                Sürat koşularının tümünde, oyun alanı olarak 400 m. uzunluğundaki standart pist kullanılır. Bu pistlerin hepsinde artan" denilen sentetik bir bileşik olan yapay zemin vardır. Pistin bitiş çizgisi tüm yarışlar için aynıdır. Pist üzerinde 8 kulvar işaretlenerek, yarışmacıların birbirinden ayrılmaları sağlanmıştır. Sürat koşularının tümünde her koşucu, parkurunu kendi kulvarında koşarak tamamlar.  
+                                
+                                Sürat koşucuları yarıştan önce ısınmalı, adalelerini gevşetici hareketler yapmalıdırlar.  
+                                
+                                Sürat koşularında atletler çıkış takozları kullanırlar. Bu çıkış takozları, başlangıç çizgisinin hemen arkasına vidalanan, yarışmacının ayaklarını basarak ilk hızını almasını sağlayan genellikle metal bir alettir. Ayakların konduğu düz kısımlar, atletlerin tercihine göre ayarlanabilir. Bu çıkış takozları ile çömelmiş durumda çıkış yapmaya 1894'ten sonra başlanmış olup, ilk kez 1930'da resmi yarışmalarda kullanılmıştır. Çıkış takozlarına, önemli yarışlarda yanlış çıkışları otomatik olarak saptayan elektronik bir mekanizma eklenir. Çıkış sırasında yarışmacının soğukkanlı ve hırslı olması çok önemlidir.  
+                                
+                                Sürat koşularında atletler, ıslanma ile şeffaflaşmayan atlet ve şortlar giyerler.  
+                                
+                                Numaralar kolayca görülebilecek büyüklükte sırta ve göğüse tutturulur.
+                                
+                                Çorapların pamuklu, beyaz ve dikişsiz olması gerekir. Yarışmalarda çivili özel spor ayakkabıları kullanılır. Bu ayakkabılar yarışma çeşidi ve atletlerin tercihine göre farklılık gösterebilir. Ama çiviler 2.5 cm. uzunluğunu geçemez. Sentetik pistlerle birlikte metal çivilerin yerini lastik çiviler almıştır. Bu çiviler koşu sırasında yere batarak ayağın geri kaymasını önler.  
+                                
+                                100 m.'den 800 m.'ye kadar olan yarışlarda koşucular yarışa, çömelmiş durumda bir ayak geride, öteki ayak çıkış çizgisinin hemen arkasında, el parmakları da yere değecek biçimde yerleşerek başlarlar.  
+                                
+                                Çıkış hakemi 800 m.'ye kadar olan koşularda (800 m. dahil) "yerlerinize" ve "dikkat" komutlarını, daha uzun koşular için "yerlerinize" komutunu verir. Bütün atletlerin "dikkat" durumunda iki ayağı da piste değmeli ve hareketsiz beklemeleri gerekir.  
+                                
+                                Yarışmalar bir tabanca veya benzeri bir aletin havaya ateşlenmesi ile başlar.  
+                                
+                                Yarışmacılardan birisinin hatalı çıkış yapması durumunda çıkış tekrarlanır. İki kez hatalı çıkış yapan atlet diskalifiye edilir. Pist yarışmalarında diskalifiye olan atlet, pisti hemen terk etmelidir. Hatalı çıkıştan sonra yarışmacılar, tabancanın yeniden ateşlenmesi ile geri çağrılır.  
+                                
+                                Sürat koşuları, yukarıda da belirtildiği üzere çökmüş vaziyette çıkış hareketiyle başlar. Fuleye geçmek için atılan toplanış adımlarıyla sürer. Bunu mesafenin 15-20 m.'si ile son 5 m.'si arasındaki fule adımları izler. Yarış ipinin göğüslenmesi ile koşu tamamlanır.  
+                                
+                                Bitişte ipi göğüslemek veya finiş çizgisini geçmek, ya atletin ellerini başının üstüne kaldırması ya da elleri ile fırlatarak seride omuz ile dokunmak şeklinde olur.  
+                                
+                                Yarışmalarda dereceler elektronik kronometre ile saptanır. Bu kronometreler, yarışmayı başlatan tabancaya bağlanmıştır ve ateşleme ile kendiliğinden otomatik olarak çalışmaya başlar. Ayrıca ipi göğüsleyen atlet, saniyenin yüzde birini saptayabilen "Foto Finiş" aletiyle tespit edilir.  
+                                
+                                Zaman, silahın ateşlenmesinden, atletin gövdesinin bitişe vardığı ana kadar geçen süre ölçülerek bulunur.  
+                                
+                                Beraberlik durumunda, ikinci tur her iki atletin katılmasına engel ise iki atlet yeniden yarışır. Bu durum dışında bütün beraberlikler olduğu gibi kalır. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- content sonu -->
+            <div style="clear: both;">&nbsp;</div>
+        </div>
+        <!-- sayfanın tamamının sonu -->
+        <!-- footer başlangıç -->
+    </div>
+    <div id="footer">
+        <p>2022. DPÜ Teknik Bilimler MYO. Kerem Sevinç tarafından yapılmıştır.</p>
+    </div>
+    <!-- footer sonu -->
+    </body>
+</html>
+body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #181b20;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0px;
+  padding: 0px;
+  text-transform: lowercase;
+  font-family: "Abel", sans-serif;
+  font-weight: 400;
+  color: #ef2424;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 2.4em;
+}
+
+h3 {
+  font-size: 1.6em;
+}
+
+p,
+ul,
+ol {
+  margin-top: 0;
+  line-height: 180%;
+}
+
+ul,
+ol {
+}
+
+a {
+  text-decoration: none;
+  color: #9c9a9a;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img.border {
+  border: 6px solid #eee7df;
+}
+
+img.alignleft {
+  float: left;
+  margin-right: 25px;
+}
+
+img.alignright {
+  float: right;
+}
+
+img.aligncenter {
+  margin: 0px auto;
+}
+
+#icerik {
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* Header Kısmı */
+
+#header-icerigi {
+  height: 240px;
+  background: #d35400;
+  margin-bottom: 30px;
+}
+
+#header {
+  width: 960px;
+  height: 240px;
+  margin: 0 auto;
+}
+
+/* Logo Ek (Yazı ayarı değil) */
+#logo {
+  width: 980px;
+  height: 100px;
+  margin: 0px auto;
+  padding: 80px 0px 0px 0px;
+  color: #72e8f3;
+}
+/* Başlık özellikleri */
+#logo h1 {
+  letter-spacing: -7px;
+  text-align: center;
+  font-size: 90px;
+}
+
+/* Yazı rengi ayarı */
+#logo h1 a {
+  color: #f1c40f;
+  text-decoration: none;
+  text-transform: none;
+}
+
+/* Menü kısmı */
+
+#menu-icerik-1 {
+  width: 1500px;
+  height: 60px;
+  margin: 0px auto;
+  padding: 5px;
+  background: #d35400;
+  border-radius: 0px;
+}
+
+#menu {
+  margin: 0;
+  padding: 0px 500px;
+  list-style: none;
+  line-height: 60px;
+  letter-spacing: -2px;
+  text-decoration: none;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 23px;
+  font-weight: normal;
+  color: #ffffff;
+}
+
+#menu li {
+  float: left;
+  margin-right: 1px;
+}
+
+#menu a {
+  display: flex;
+  float: left;
+  height: 60px;
+  margin: 0px;
+  color: #ffffff;
+}
+/* üzerine gelmeden önce*/
+#menu .mevcut_sayfa a {
+  background: #d35400;
+}
+/* üzerine geldiğinde */
+#menu a:hover {
+  background: #f1c40f;
+  text-decoration: none;
+  color: #d35400;
+}
+/* yazılar için yer ayarı*/
+#menu span {
+  padding: 0px 20px;
+}
+
+#menu > li.active {
+  background: #15f3f3;
+  color: #ffffff;
+}
+
+/* Sayfa içi (sayfayı ortalar) */
+
+#sayfa {
+  width: 1024px;
+  margin: 0px auto;
+  padding: 0px;
+}
+
+/* sayfa içeriği */
+
+#content {
+  float: right;
+  width: 650spx;
+}
+/* sayfa içeriğinin ortalaması */
+#content .contentbg {
+  width: 590px;
+  padding: 10px 30px 0px 30px;
+}
+
+/* metinlerin ayıran çizgiler */
+.gonderi {
+  clear: both;
+  padding-bottom: 5px;
+  border-bottom: 2px solid #d35400;
+}
+
+/* metinlerin başlık ayarı */
+.gonderi .baslik {
+  padding-top: 15px;
+  letter-spacing: -5px;
+  text-transform: none;
+  font-size: 60px;
+  color: #22f0ff;
+}
+/* başlıkların renk ayarı */
+.gonderi .baslik a {
+  border: none;
+  color: #d35400;
+  text-decoration: none;
+}
+
+.gonderi .girdi {
+  text-align: left;
+  margin-bottom: 20px;
+  padding: 10px 0px 0px 0px;
+}
+
+/* sidebar yan taraf */
+
+#sidebar-bg {
+  float: left;
+  width: 300px;
+}
+
+#sidebar {
+  overflow: hidden;
+  width: 210px;
+  padding: 30px 30px 20px 30px;
+}
+
+#sidebar ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#sidebar li {
+  margin: 0;
+  padding: 0;
+}
+
+#sidebar li ul {
+  margin: 0px 0px;
+  padding-bottom: 30px;
+}
+
+#sidebar li li {
+  line-height: 30px;
+}
+
+#sidebar h2 {
+  height: 40px;
+  margin-bottom: 30px;
+  padding: 12px 0 0 0px;
+  border-bottom: 3px solid #d35400;
+  letter-spacing: 1px;
+  font-size: 30px;
+  color: #d35400;
+  text-transform: none;
+}
+
+#sidebar p {
+  margin: 0 0px;
+  padding: 0px 20px 20px 20px;
+  text-align: justify;
+}
+
+/* yazıların üstüne geldiğinde altına çizgi */
+#sidebar a:hover {
+  text-decoration: underline;
+}
+
+/* footer */
+
+#footer {
+  height: 100px;
+  background: #d35400;
+}
+
+#footer p {
+  margin: 0;
+  padding-top: 18px;
+  line-height: normal;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  color: #f1c40f;
+}
+
+/* sayfadaki resmi ortalar */
+#foto {
+  width: 1460px;
+  margin: 30px auto 0px auto;
+}
+
+/* galeri sayfası */
+.gorsel-ana-bolum {
+  font-family: "Abel", sans-serif;
+  width: 1024px;
+  margin: 0 auto;
+  display: table;
+  padding: 100px;
+}
+.gorsel-ana-bolum .kutu {
+  float: left;
+  width: 228px;
+  height: 250px;
+  border: 1px solid #848484;
+  padding: 10px;
+  margin-right: 8px;
+}
+.gorsel-ana-bolum .kutu:nth-child(5n + 4) {
+  margin-right: 0;
+}
+.gorsel-ana-bolum .kutu * {
+  display: table;
+  margin: 0 auto;
+}
+.gorsel-ana-bolum .kutu .baslik {
+  margin-top: 10px;
+  font-size: 30px;
+  color: #2c2c2c;
+  text-decoration: none;
+}
+.gorsel-ana-bolum .kutu .aciklama {
+  margin-top: 3px;
+  font-size: 14px;
+  color: #292828;
+  text-decoration: none;
+}
+.gorsel-ana-bolum .kutu .link {
+  margin-top: 10px;
+  font-size: 14px;
+  text-decoration: none;
+  padding: 3px 10px;
+  background: #d35400;
+  color: #f1f1f1;
+}
+.gorsel-ana-bolum .kutu .fotograf {
+  width: 100%;
+  height: auto;
+}
+.gorsel-ana-bolum .kutu .fotograf img {
+  width: 100%;
+  height: auto;
+}
+.ayirici {
+  width: 100%;
+  height: 30px;
+  float: left;
+}
+
+/* iletisim sayfasi */
+#icerik-tasiyici {
+  height: 482px;
+  width: 855px;
+  margin: 0 auto;
+  padding: 55px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: "Abel", sans-serif;
+}
+.boyut {
+  width: 383px;
+}
+.iletisim {
+  color: #d35400;
+  font-size: 30px;
+  padding-left: 20px;
+}
+.yildiz {
+  font-size: 15px;
+  color: #ff0000;
+}
+.zorunlu-alan {
+  color: #d35400;
+  text-align: right;
+}
+.gonder {
+  color: #fff;
+  background-color: #d35400;
+  height: 40px;
+  text-align: center;
+  width: 70px;
+  border: none;
+}
+.mesaj {
+  color: #999;
+  text-align: right;
+  font-size: 20px;
+  padding-bottom: 100px;
+}
+
+.yazi {
+  text-align: right;
+  font-size: 20px;
+  color: #999;
+}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="atletizm">
+    <meta name="description" content="Bu sayfada atletizm ile ilgili bilgiler bulunur.">
+    <meta name="author" content="Kerem Sevinç">
+    <title>Atletizm</title>
+    <link href="style.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css">
+</head>
+<body>
+        <!-- header başı -->
+    <div id="icerik">
+        <div id="header-icerigi">
+            <div id="header">
+                <div id="logo">
+                    <h1><a href="#">Atletizm</a></h1>
+                </div>
+            </div>
+        </div>
+        <!-- header sonu -->
+        <!-- menü başı -->
+        <div id="menu-icerik-1">
+            <ul id="menu">
+                <li><a href="index.html"><span>Anasayfa</span></a></li>
+                <li class="mevcut_sayfa"><a href="galeri.html"><span>Galeri</span></a></li>
+                <li><a href="kurallar.html"><span>Kurallar</span></a></li>
+                <li><a href="tarihce.html"><span>Tarihçe</span></a></li>
+                <li><a href="iletisim.html"><span>İletişim</span></a></li>
+            </ul>
+        </div>
+        <!-- menü sonu -->
+        <!-- content başlangıcı -->
+        <div class="gorsel-ana-bolum">
+            <div class="kutu">
+                <a href="#" class="fotograf"><img src="../image/img3.jpg" width="190" height="152" alt="Yüzme" /></a>
+                <a href="#" class="baslik">Fotograf 1</a>
+                <a href="#" class="aciklama">Fotoğrafı büyütmek için tıklayın.</a>
+                <a href="../image/img3.jpg" title="" class="link">Büyüt</a>
+            </div>
+            <div class="kutu">
+                <a href="#" class="fotograf"><img src="../image/img4.jpg" width="190" height="152" alt="Yüzme"></a>
+                <a href="#" class="baslik">Fotograf 2</a>
+                <a href="#" class="aciklama">Fotoğrafı büyütmek için tıklayın.</a>
+                <a href="../image/img4.jpg" target="_blank" title="" class="link">Büyüt</a>
+            </div>
+            <div class="kutu">
+                <a href="#" class="fotograf"><img src="../image/img5.jpg" width="190" height="152" alt="Yüzme"></a>
+                <a href="#" class="baslik">Fotograf 3</a>
+                <a href="#" class="aciklama">Fotoğrafı büyütmek için tıklayın.</a>
+                <a href="../image/img5.jpg" target="_blank" title="" class="link">Büyüt</a>
+            </div>
+            <div class="kutu">
+                <a href="#" class="fotograf"><img src="../image/img6.jpg" width="190" height="152" alt="Yüzme"></a>
+                <a href="#" class="baslik">Fotograf 4</a>
+                <a href="#" class="aciklama">Fotoğrafı büyütmek için tıklayın.</a>
+                <a href="../image/img6.jpg" target="_blank" title="" class="link">Büyüt</a>
+            </div>
+            <div class="ayirici"></div>
+            <div class="kutu">
+                <a href="#" class="fotograf"><img src="../image/img7.jpg" width="190" height="152" alt="Yüzme"></a>
+                <a href="#" class="baslik">Fotograf 5</a>
+                <a href="#" class="aciklama">Fotoğrafı büyütmek için tıklayın.</a>
+                <a href="../image/img7.jpg" target="_blank" title="" class="link">Büyüt</a>
+            </div>
+            <div class="kutu">
+                <a href="#" class="fotograf"><img src="../image/img8.jpg" width="190" height="152" alt="Yüzme"></a>
+                <a href="#" class="baslik">Fotograf 6</a>
+                <a href="#" class="aciklama">Fotoğrafı büyütmek için tıklayın.</a>
+                <a href="../image/img8.jpg" target="_blank" title="" class="link">Büyüt</a>
+            </div>
+            <div class="kutu">
+                <a href="#" class="fotograf"><img src="../image/img9.jpg" width="190" height="152" alt="Yüzme"></a>
+                <a href="#" class="baslik">Fotograf 7</a>
+                <a href="#" class="aciklama">Fotoğrafı büyütmek için tıklayın.</a>
+                <a href="../image/img9.jpg" target="_blank" title="" class="link">Büyüt</a>
+            </div>
+            <div class="kutu">
+                <a href="#" class="fotograf"><img src="../image/img10.jpg" width="190" height="152" alt="Yüzme"></a>
+                <a href="#" class="baslik">Fotograf 8</a>
+                <a href="#" class="aciklama">Fotoğrafı büyütmek için tıklayın.</a>
+                <a href="../image/img10.jpg" target="_blank" title="" class="link">Büyüt</a>
+            </div>
+        </div>
+          
+            <!-- content sonu -->
+            <div style="clear: both;">&nbsp;</div>
+        </div>
+        <!-- sayfanın tamamının sonu -->
+        <!-- footer başlangıç -->
+    </div>
+    <div id="footer">
+        <p>2022. DPÜ Teknik Bilimler MYO. Kerem Sevinç tarafından yapılmıştır.</p>
+    </div>
+    <!-- footer sonu -->
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="atletizm">
+    <meta name="description" content="Bu sayfada atletizm ile ilgili bilgiler bulunur.">
+    <meta name="author" content="Kerem Sevinç">
+    <title>Atletizm</title>
+    <link href="style.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css">
+</head>
+<body>
+        <!-- header başı -->
+    <div id="icerik">
+        <div id="header-icerigi">
+            <div id="header">
+                <div id="logo">
+                    <h1><a href="#">Atletizm</a></h1>
+                </div>
+            </div>
+        </div>
+        <!-- header sonu -->
+        <!-- menü başı -->
+        <div id="menu-icerik-1">
+            <ul id="menu">
+                <li><a href="index.html"><span>Anasayfa</span></a></li>
+                <li><a href="galeri.html"><span>Galeri</span></a></li>
+                <li><a href="kurallar.html"><span>Kurallar</span></a></li>
+                <li><a href="tarihce.html"><span>Tarihçe</span></a></li>
+                <li class="mevcut_sayfa"><a href="iletisim.html"><span>İletişim</span></a></li>
+            </ul>
+        </div>
+        <!-- menü sonu -->
+        <!-- content başlangıcı -->
+        <div id="icerik-tasiyici">
+            <table width="855" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td height="74" class="iletisim">Iletisim</td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="855" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="250" height="39" class="yazi"><span class="yildiz">*</span>Ad ve Soyad: </td>
+                                <td width="605"><form id="form1" name="form1" method="post" action="">
+                                    <label for="ad-soyad"></label>
+                                    <input name="ad-soyad" type="text" id="ad-soyad" size="50" required="required">
+                                </form></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="855" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="250" height="39" class="yazi"><span class="yildiz">*</span>E-Mail: </td>
+                                <td width="605"><form id="form2" name="form2" method="post" action="">
+                                    <label for="e-mail"></label>
+                                    <input name="e-mail" type="text" id="e-mail" size="50" required="required">
+                                </form></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="855" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="251" height="38" class="yazi">Telefon: </td>
+                                <td width="604"><form id="form3" name="form3" method="post" action="">
+                                    <label for="telefon"></label>
+                                    <input name="telefon" type="text" id="telefon" size="50">
+                                </form></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="855" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="250" height="38" class="yazi"><span class="yildiz">*</span>Atletizm ile ilgili ne kadar bilgilisiniz: </td>
+                                <td width="605"><form id="form4" name="form4" method="post" action="">
+                                    <label for="departman"></label>
+                                    <select name="departman" class="boyut" id="departman" required="required">
+                                        <option value="1">Lütfen birini seçiniz...</option>
+                                        <option value="2">Çok İyi</option>
+                                        <option value="3">İyi</option>
+                                        <option value="4">Kötü</option>
+                                        <option value="5">Çok Kötü</option>
+                                    </select>
+                                </form></td>
+                                </tr>
+                                </table>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table width="855" border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td width="250" height="40" class="mesaj"><span class="yildiz">*</span>Mesajınız: </td>
+                                            <td width="605"><form id="form5" name="form5" method="post" action="">
+                                                <span id="sprytextarea1">
+                                                    <label for="mesaj"></label>
+                                                    <label for="mesaj"></label>
+                                                    <textarea name="mesaj" cols="52" rows="7" required="required" id="mesaj"></textarea>
+                                                </span>
+                                            </form></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width="855" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="641" height="39" class="zorunlu-alan">* Zorunlar Alanlar</td>
+                                <td width="214">&nbsp;</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td height="92">
+                        <form id="form6" name="form6" method="post" action="">
+                            <table width="855" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                    <td width="780">&nbsp;</td>
+                                    <td width="75">
+                                        <input name="gonder" type="sumbit" class="gonder" id="gonder" value="Gönder">
+                                    </td>
+                                </tr>
+                            </table>
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+            <!-- content sonu -->
+            <div style="clear: both;">&nbsp;</div>
+        </div>
+        <!-- sayfanın tamamının sonu -->
+        <!-- footer başlangıç -->
+    </div>
+    <div id="footer">
+        <p>2022. DPÜ Teknik Bilimler MYO. Kerem Sevinç tarafından yapılmıştır.</p>
+    </div>
+    <!-- footer sonu -->
+    </body>
+</html>
