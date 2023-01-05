@@ -197,7 +197,7 @@ img.aligncenter {
   letter-spacing: -5px;
   text-transform: none;
   font-size: 60px;
-  color: #22f0ff;
+  color: #d35400;
 }
 /* başlıkların renk ayarı */
 .gonderi .baslik a {
@@ -392,4 +392,12 @@ img.aligncenter {
   text-align: right;
   font-size: 20px;
   color: #999;
+}
+.usain {
+  width: ;
+  margin: auto;
+}
+.saga-kaydir {
+  float: right;
+  padding: ;
 }
